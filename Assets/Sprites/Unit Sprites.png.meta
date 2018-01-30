@@ -1,0 +1,2052 @@
+fileFormatVersion: 2
+guid: 3b791962d871cee448397e8ead5b1a78
+timeCreated: 1516329970
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Unit Sprites_0
+    21300002: Unit Sprites_1
+    21300004: Unit Sprites_2
+    21300006: Unit Sprites_3
+    21300008: Unit Sprites_4
+    21300010: Unit Sprites_5
+    21300012: Unit Sprites_6
+    21300014: Unit Sprites_7
+    21300016: Unit Sprites_8
+    21300018: Unit Sprites_9
+    21300020: Unit Sprites_10
+    21300022: Unit Sprites_11
+    21300024: Unit Sprites_12
+    21300026: Unit Sprites_13
+    21300028: Unit Sprites_14
+    21300030: Unit Sprites_15
+    21300032: Unit Sprites_16
+    21300034: Unit Sprites_17
+    21300036: Unit Sprites_18
+    21300038: Unit Sprites_19
+    21300040: Unit Sprites_20
+    21300042: Unit Sprites_21
+    21300044: Unit Sprites_22
+    21300046: Unit Sprites_23
+    21300048: Unit Sprites_24
+    21300050: Unit Sprites_25
+    21300052: Unit Sprites_26
+    21300054: Unit Sprites_27
+    21300056: Unit Sprites_28
+    21300058: Unit Sprites_29
+    21300060: Unit Sprites_30
+    21300062: Unit Sprites_31
+    21300064: Unit Sprites_32
+    21300066: Unit Sprites_33
+    21300068: Unit Sprites_34
+    21300070: Unit Sprites_35
+    21300072: Unit Sprites_36
+    21300074: Unit Sprites_37
+    21300076: Unit Sprites_38
+    21300078: Unit Sprites_39
+    21300080: Unit Sprites_40
+    21300082: Unit Sprites_41
+    21300084: Unit Sprites_42
+    21300086: Unit Sprites_43
+    21300088: Unit Sprites_44
+    21300090: Unit Sprites_45
+    21300092: Unit Sprites_46
+    21300094: Unit Sprites_47
+    21300096: Unit Sprites_48
+    21300098: Unit Sprites_49
+    21300100: Unit Sprites_50
+    21300102: Unit Sprites_51
+    21300104: Unit Sprites_52
+    21300106: Unit Sprites_53
+    21300108: Unit Sprites_54
+    21300110: Unit Sprites_55
+    21300112: Unit Sprites_56
+    21300114: Unit Sprites_57
+    21300116: Unit Sprites_58
+    21300118: Unit Sprites_59
+    21300120: Unit Sprites_60
+    21300122: Unit Sprites_61
+    21300124: Unit Sprites_62
+    21300126: Unit Sprites_63
+    21300128: Unit Sprites_64
+    21300130: Unit Sprites_65
+    21300132: Unit Sprites_66
+    21300134: Unit Sprites_67
+    21300136: Unit Sprites_68
+    21300138: Unit Sprites_69
+    21300140: Unit Sprites_70
+    21300142: Unit Sprites_71
+    21300144: Unit Sprites_72
+    21300146: Unit Sprites_73
+    21300148: Unit Sprites_74
+    21300150: Unit Sprites_75
+    21300152: Unit Sprites_76
+    21300154: Unit Sprites_77
+    21300156: Unit Sprites_78
+    21300158: Unit Sprites_79
+    21300160: Unit Sprites_80
+    21300162: Unit Sprites_81
+    21300164: Unit Sprites_82
+    21300166: Unit Sprites_83
+    21300168: Unit Sprites_84
+    21300170: Unit Sprites_85
+    21300172: Unit Sprites_86
+    21300174: Unit Sprites_87
+    21300176: Unit Sprites_88
+    21300178: Unit Sprites_89
+    21300180: Unit Sprites_90
+    21300182: Unit Sprites_91
+    21300184: Unit Sprites_92
+    21300186: Unit Sprites_93
+    21300188: Unit Sprites_94
+    21300190: Unit Sprites_95
+    21300192: Unit Sprites_96
+    21300194: Unit Sprites_97
+    21300196: Unit Sprites_98
+    21300198: Unit Sprites_99
+    21300200: Unit Sprites_100
+    21300202: Unit Sprites_101
+    21300204: Unit Sprites_102
+    21300206: Unit Sprites_103
+    21300208: Unit Sprites_104
+    21300210: Unit Sprites_105
+    21300212: Unit Sprites_106
+    21300214: Unit Sprites_107
+    21300216: Unit Sprites_108
+    21300218: Unit Sprites_109
+    21300220: Unit Sprites_110
+    21300222: Unit Sprites_111
+    21300224: Unit Sprites_112
+    21300226: Unit Sprites_113
+    21300228: Unit Sprites_114
+    21300230: Unit Sprites_115
+    21300232: Unit Sprites_116
+    21300234: Unit Sprites_117
+    21300236: Unit Sprites_118
+    21300238: Unit Sprites_119
+    21300240: Unit Sprites_120
+    21300242: Unit Sprites_121
+    21300244: Unit Sprites_122
+    21300246: Unit Sprites_123
+    21300248: Unit Sprites_124
+    21300250: Unit Sprites_125
+    21300252: Unit Sprites_126
+    21300254: Unit Sprites_127
+    21300256: Unit Sprites_128
+    21300258: Unit Sprites_129
+    21300260: Unit Sprites_130
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unit Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 222
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 222
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 222
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 222
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 222
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 222
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 204
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 204
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 204
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 204
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 204
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 204
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 204
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 204
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 204
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 204
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 204
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 204
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 186
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 186
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 186
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 186
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 186
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 186
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 186
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 186
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 186
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 186
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 186
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 186
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 186
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 188
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 186
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 168
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 168
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 168
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 168
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 168
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 168
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 168
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 143
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 143
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 143
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 143
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 143
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 143
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 143
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 143
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 143
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 143
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 143
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 143
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 143
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 143
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 143
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 115
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 115
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 115
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 115
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 115
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 115
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 115
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 115
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 115
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 115
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 115
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 115
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 115
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 115
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 115
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 85
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 85
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 85
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 85
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 85
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 85
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 85
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 85
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 85
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 85
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 85
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 85
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 85
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 85
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 53
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 53
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 53
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 53
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_117
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 53
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_118
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 53
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_119
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 53
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_120
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 53
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 53
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 53
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 53
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 53
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 53
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 53
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 18
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 18
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Unit Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 18
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

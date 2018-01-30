@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: 7f287f2238605754bbf64ccd81a5f631
+timeCreated: 1517080771
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FFT Portraits_0
+    21300002: FFT Portraits_1
+    21300004: FFT Portraits_2
+    21300006: FFT Portraits_3
+    21300008: FFT Portraits_4
+    21300010: FFT Portraits_5
+    21300012: FFT Portraits_6
+    21300014: FFT Portraits_7
+    21300016: FFT Portraits_8
+    21300018: FFT Portraits_9
+    21300020: FFT Portraits_10
+    21300022: FFT Portraits_11
+    21300024: FFT Portraits_12
+    21300026: FFT Portraits_13
+    21300028: FFT Portraits_14
+    21300030: FFT Portraits_15
+    21300032: FFT Portraits_16
+    21300034: FFT Portraits_17
+    21300036: FFT Portraits_18
+    21300038: FFT Portraits_19
+    21300040: FFT Portraits_20
+    21300042: FFT Portraits_21
+    21300044: FFT Portraits_22
+    21300046: FFT Portraits_23
+    21300048: FFT Portraits_24
+    21300050: FFT Portraits_25
+    21300052: FFT Portraits_26
+    21300054: FFT Portraits_27
+    21300056: FFT Portraits_28
+    21300058: FFT Portraits_29
+    21300060: FFT Portraits_30
+    21300062: FFT Portraits_31
+    21300064: FFT Portraits_32
+    21300066: FFT Portraits_33
+    21300068: FFT Portraits_34
+    21300070: FFT Portraits_35
+    21300072: FFT Portraits_36
+    21300074: FFT Portraits_37
+    21300076: FFT Portraits_38
+    21300078: FFT Portraits_39
+    21300080: FFT Portraits_40
+    21300082: FFT Portraits_41
+    21300084: FFT Portraits_42
+    21300086: FFT Portraits_43
+    21300088: FFT Portraits_44
+    21300090: FFT Portraits_45
+    21300092: FFT Portraits_46
+    21300094: FFT Portraits_47
+    21300096: FFT Portraits_48
+    21300098: FFT Portraits_49
+    21300100: FFT Portraits_50
+    21300102: FFT Portraits_51
+    21300104: FFT Portraits_52
+    21300106: FFT Portraits_53
+    21300108: FFT Portraits_54
+    21300110: FFT Portraits_55
+    21300112: FFT Portraits_56
+    21300114: FFT Portraits_57
+    21300116: FFT Portraits_58
+    21300118: FFT Portraits_59
+    21300120: FFT Portraits_60
+    21300122: FFT Portraits_61
+    21300124: FFT Portraits_62
+    21300126: FFT Portraits_63
+    21300128: FFT Portraits_64
+    21300130: FFT Portraits_65
+    21300132: FFT Portraits_66
+    21300134: FFT Portraits_67
+    21300136: FFT Portraits_68
+    21300138: FFT Portraits_69
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 72
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FFT Portraits_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 510
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 510
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 510
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 510
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 510
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 510
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 510
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 510
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 510
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 510
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 438
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 438
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 438
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 438
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 438
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 438
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 438
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 438
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 438
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 438
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 366
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 366
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 366
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 366
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 366
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 366
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 365
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_27
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 365
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 365
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 365
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 293
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 293
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 293
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 293
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 293
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 293
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 293
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 293
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_38
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 293
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 293
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 220
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 220
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 220
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 220
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 220
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 220
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 220
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_47
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 220
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_48
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 220
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 220
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 148
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 148
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_53
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 148
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 148
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 148
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 148
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 148
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_58
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 148
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 148
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 75
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 75
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 75
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 75
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 75
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 75
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 75
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_68
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 75
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FFT Portraits_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 75
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

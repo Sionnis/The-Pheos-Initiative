@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Portrait
+  - GameManager
+  - Cursor
+  - Selector
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Obstruction
+  - Item
+  - Character
+  - Cursor
+  - Menus
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 4159535561
+    locked: 0
+  - name: Obstruction
+    uniqueID: 3526437077
+    locked: 0
+  - name: Item
+    uniqueID: 1080819717
+    locked: 0
+  - name: Character
+    uniqueID: 3836243241
+    locked: 0
+  - name: Cursor
+    uniqueID: 1890787051
+    locked: 0
