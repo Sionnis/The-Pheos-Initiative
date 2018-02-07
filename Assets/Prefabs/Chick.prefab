@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 114641847559161280}
   m_Layer: 11
   m_Name: Chick
-  m_TagString: Untagged
+  m_TagString: Character
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -84,8 +84,6 @@ MonoBehaviour:
   unitHP: 10
   unitAP: 3
   speed: 5
-  tileX: 0
-  tileY: 0
 --- !u!212 &212437265197495308
 SpriteRenderer:
   m_ObjectHideFlags: 1

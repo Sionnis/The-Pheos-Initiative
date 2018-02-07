@@ -6,14 +6,21 @@ using UnityEngine.UI;				//Needed for UI sprites, the "Image" component, and the
 public class PortraitBehaviour : MonoBehaviour {
 
 	public CharacterBehaviour selected;
+	private Transform whichPortrait;
+	public bool cardsActive = false;
 
 	public void DisplayMe (CharacterBehaviour character)
 	{
 		selected = character;
-		this.transform.Find("Picture").GetComponent<Image> ().sprite = character.unitPortrait;
-		this.transform.Find("Name").GetComponent<Text> ().text = character.unitName;
-		this.transform.Find("Hitpoints").GetComponent<Text> ().text = ("HP: " + character.unitHP + " / " + character.unitHPMax);
-		this.transform.Find("Actionpoints").GetComponent<Text> ().text = ("AP: " + character.unitAP + " / 3");
-	}
 
+		if (cardsActive == false)
+			whichPortrait = this.transform;
+		else
+			whichPortrait = this.transform.Find ("TargetPortrait");
+
+		whichPortrait.Find("Picture").GetComponent<Image> ().sprite = character.unitPortrait;
+		whichPortrait.Find("Name").GetComponent<Text> ().text = character.unitName;
+		whichPortrait.Find("Hitpoints").GetComponent<Text> ().text = ("HP: " + character.unitHP + " / " + character.unitHPMax);
+		whichPortrait.Find("Actionpoints").GetComponent<Text> ().text = ("AP: " + character.unitAP + " / 3");
+	}
 }

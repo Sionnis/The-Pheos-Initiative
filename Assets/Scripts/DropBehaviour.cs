@@ -12,6 +12,8 @@ public class DropBehaviour : MonoBehaviour, IDropHandler {
 		DragBehaviour d = eventData.pointerDrag.GetComponent<DragBehaviour>();
 		if(d != null & this.transform.childCount < maxHandSize){
             d.originalParent = this.transform;
+			if (this.GetComponent<CardPlayBehaviour> () != null)
+				this.GetComponent<CardPlayBehaviour> ().StartPlayingCards();
         }
 		if(d != null & this.transform.childCount == maxHandSize & this.transform != d.originalParent){
 			this.transform.GetChild(this.maxHandSize-1).SetParent(d.originalParent);

@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 114813916835752824}
   m_Layer: 11
   m_Name: Dude
-  m_TagString: Untagged
+  m_TagString: Character
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -84,8 +84,6 @@ MonoBehaviour:
   unitHP: 10
   unitAP: 3
   speed: 7
-  tileX: 0
-  tileY: 0
 --- !u!212 &212563054231977576
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -41,9 +41,6 @@ public class BattleManager : MonoBehaviour {
 	public Dictionary<Transform, Transform> pathprevious = new Dictionary<Transform, Transform>();
 	public List<Transform> pathhighlight = new List<Transform>();
 
-    //public GameObject selectedUnit;
-    //public GameObject selectionReticle;
-
     //Sets up a list of potential grid positions with which to place random rooms/obstructions/etc.
     void InitializeList()
     {
@@ -198,6 +195,7 @@ public class BattleManager : MonoBehaviour {
 				if (hit.collider == null)
 				{
 					GameObject placeSelector = Instantiate (selectorObj, new Vector3 (v.transform.position.x, v.transform.position.y, -1f), Quaternion.identity);
+					placeSelector.GetComponent<SelectorBehaviour> ().selectorState = "Move";
 					placeSelector.transform.SetParent (this.transform);
 				}
 			}
@@ -206,7 +204,8 @@ public class BattleManager : MonoBehaviour {
 
 	public void SetCursor (float xVal, float yVal)
 	{
-		if (GameObject.FindWithTag ("Cursor") == null) {
+		if (GameObject.FindWithTag ("Cursor") == null)
+		{
 			GameObject makecursorgonow = Instantiate (cursorObj, new Vector3 (xVal, yVal, -1f), Quaternion.identity);
 			makecursorgonow.transform.SetParent (this.transform);
 		} else
